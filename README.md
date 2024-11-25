@@ -44,8 +44,6 @@ crear un proyecto utilizando Git y GitHub para asegurar que todo esté bajo cont
 4. Uso de .gitignore:
    o Crea un archivo .gitignore en la raíz del repositorio que ignore:
    - Ficheros fuente de Photoshop (\*.xsd).
-     Entornos de Desarrollo
-     3
    - La carpeta top_secret.
 5. Creación de una rama secundaria:
    o Crea una nueva rama con tu nombre y apellidos (todo junto, sin
